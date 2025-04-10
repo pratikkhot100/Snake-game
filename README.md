@@ -18,7 +18,7 @@ This is a classic Snake game implemented in Java using Swing GUI components (JFr
 - Java SE (8+)
 - Swing (GUI)
 - AWT (for graphics and event handling)
-- 
+
 ## ⚙️ Game Features:
 
 - Real-time movement using Timer and key listeners.
