@@ -37,14 +37,14 @@ This is a classic Snake game implemented in Java using Swing GUI components (JFr
 
 - If snake eats food:
 
-Grows longer.
+   Grows longer.
 
-Score increases.
+   Score increases.
 
-New food is generated randomly.
+   New food is generated randomly.
 
 - If snake hits:
 
-Wall or itself → game over.
+   Wall or itself → game over.
 
-Press R to restart after game over.
+   Press R to restart after game over.
