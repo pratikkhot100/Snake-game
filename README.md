@@ -59,3 +59,14 @@ This is a classic Snake game implemented in Java using Swing GUI components (JFr
    Wall or itself → game over.
 
    Press R to restart after game over.
+
+  ---
+
+ ## 📞 Contact Information
+
+  🐙 GitHub: https://github.com/pratikkhot100
+
+  💼 LinkedIn: https://www.linkedin.com/in/pratikkhot01
+
+  📧 Email: pratikkhot1207@gmail.com
+
